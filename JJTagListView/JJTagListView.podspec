@@ -18,5 +18,5 @@ Pod::Spec.new do |s|
   s.author           = { 'JunJunWin' => '420344796@qq.com' }
   s.source           = { :git => 'https://github.com/JunJunWin/JJTagListView.git', :tag => s.version }
   s.ios.deployment_target = '7.0'
-  s.source_files = '*.{h,m}'
+  s.source_files = "JJTagListView/*.{h,m}"
 end
