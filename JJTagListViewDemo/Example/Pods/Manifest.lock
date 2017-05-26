@@ -1,0 +1,16 @@
+PODS:
+  - JJTagListViewDemo (0.1.0)
+
+DEPENDENCIES:
+  - JJTagListViewDemo (from `../`)
+
+EXTERNAL SOURCES:
+  JJTagListViewDemo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JJTagListViewDemo: 56111989eb5e10509f96db82b122776b152eb523
+
+PODFILE CHECKSUM: b582d7837f30110f7a4f33cf885673290857707f
+
+COCOAPODS: 1.2.1

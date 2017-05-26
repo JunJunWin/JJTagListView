@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'JJTagListViewDemo_Example' do
+  pod 'JJTagListViewDemo', :path => '../'
+
+  target 'JJTagListViewDemo_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

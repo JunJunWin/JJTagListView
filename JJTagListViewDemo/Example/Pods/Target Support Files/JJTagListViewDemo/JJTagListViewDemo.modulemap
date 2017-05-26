@@ -1,0 +1,6 @@
+framework module JJTagListViewDemo {
+  umbrella header "JJTagListViewDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
