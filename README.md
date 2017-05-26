@@ -17,12 +17,12 @@ JJTagListViewDemo is available through [CocoaPods](http://cocoapods.org). To ins
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod "JJTagListViewDemo"
+pod "JJTagListView"
 ```
 
 ## Author
 
-JunJunWin, 420344796@qq.com
+JunWin
 
 ## License
 
